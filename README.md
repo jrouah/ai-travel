@@ -1,5 +1,5 @@
 # ai-travel
-AI tools helping travel planning (work in progress, feel free to submit PRs)
+AI travel tools to help travel planning (work in progress, feel free to submit PRs)
 
 ## Itinerary planner
 * [Tripadvisor AI builder](https://www.tripadvisor.com/AITripBuilder)
